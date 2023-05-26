@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "APPLE",
+      "brand": "MacBook pro",
+      "category": "Computers",
+      "price": "1599",
+      "description": "New Macbook pro",
+      "createdAt": "2023-05-24",
+      "id": 3
+    },
+    {
+      "name": "APPLE",
+      "brand": "Apple Watch",
+      "category": "Accessories",
+      "price": "499",
+      "description": "New ",
+      "createdAt": "2023-05-24",
+      "id": 4
+    }
+  ]
+}
